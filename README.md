@@ -47,8 +47,10 @@ int main() {
 ```
 
 <h3 align="left">Conecte-se comigo:</h3>
-
-
+<a  href="https://www.linkedin.com/in/alexandre-martins-7a754151">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a  href="https://www.instagram.com/alexandre_martins_fotocine"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
 <h3 align="left">Idiomas e ferramentas:</h3>
