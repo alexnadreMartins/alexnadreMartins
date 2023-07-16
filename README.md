@@ -47,11 +47,8 @@ int main() {
 ```
 
 <h3 align="left">Conecte-se comigo:</h3>
-<p align="esquerda">
-<a href="https://twitter.com/martinsfoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="martinsfoto" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alexandre-martins-7a754151/" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com /in/alexandre-martins-7a754151/" height="30" width="40" /></a>
-<a href="https://instagram.com/alexandre_martins_fotocine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="alexandre_martins_fotocine" height="30" width="40" /></a>
-</p>
+
+
 
 
 <h3 align="left">Idiomas e ferramentas:</h3>
