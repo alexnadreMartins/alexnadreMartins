@@ -6,10 +6,10 @@
 <p align="left"> <a href="https://twitter.com/martinsfoto" target="blank"><img src="https://img.shields.io/twitter/follow/martinsfoto? logo=twitter&style=for-the-badge" alt="martinsfoto" /></a> </p>
 
 
-- 🔭 Atualmente desempenhando funções nas áreas de midia. 
+- 🔭**Atualmente desempenhando funções nas áreas de midia.** 
 - **:clapper: Wedding film, desenvolvedor de projetos, roteirista, fotografo, editor de midias.**
 
-- 🌱 No Momento me especializando em **TI, CyberSecurity, C++, Python, QT, Algebra linear, Criptografia pós Quantica e Redes Can**
+- 🌱**No Momento me especializando em** **TI, CyberSecurity, C++, Python, QT, Algebra linear, Criptografia pós Quantica e Redes Can**
 
 - :desktop_computer: Cursando **ADS Faculadade Estácio de Sá**
 
@@ -17,7 +17,7 @@
   Auxiliei no mundo da fotografia na parte de criação de processos, implementações e recuperação de dados, para modificar a vida de todos os envolvidos e melhorar a qualidade de vida e as capacidades para que pudessem pensar além.
   E agora estou voltando para a área de TI expressando minhas idéias técnicas com base no Design Thinking, conhecimentos adquiridos, experiências de vida e pessoas que me inspiram a usar o poder do código e das implementações para mudar o modo de vida de muitas outras pessoas com o mesmo perfil.
   As melhores palavras que  exemplificam minha trajetória e que me ajuda a converter tudo o que posso proporcionar ao desenvolvimento seguro é do fotografo Sebastião Salgado
-"Você não fotografa com sua máquina. Você fotografa com toda sua cultura.”  **
+"Você não fotografa com sua máquina. Você fotografa com toda sua cultura.”**
 
 
 <h3 align="center">Meu Código de Vida</h3>
