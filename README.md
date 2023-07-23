@@ -41,9 +41,11 @@ int main() {
     printWithDelay("Sonhos não possuem Limites", delay);
     printWithDelay("Pessoas não possuem Limites", delay);
     printWithDelay("Então o que te Limita?", delay);
+    printWithDelay("                               ", delay);
     printWithDelay("Apenas sua incapacidade de pensar, que podemos tudo!!!", delay);
-printWithDelay(" '/n' Reinvente-se e escreva uma nova linha.", delay);
-    
+    printWithDelay(" '/n' Reinvente-se e escreva uma nova linha.", delay);
+    printWithDelay("                         "Alexandre Martins"          ", delay);
+
     return 0;
 } 
 
