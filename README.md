@@ -44,7 +44,7 @@ int main() {
     printWithDelay("                               ", delay);
     printWithDelay("Apenas sua incapacidade de pensar, que podemos tudo!!!", delay);
     printWithDelay(" '/n' Reinvente-se e escreva uma nova linha.", delay);
-    printWithDelay("                         "Alexandre Martins"          ", delay);
+    printWithDelay("                         ''Alexandre Martins''          ", delay);
 
     return 0;
 } 
